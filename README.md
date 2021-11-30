@@ -1,0 +1,1 @@
+# Number-6174-or-Kaprekar-constant-in-R
